@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "ContactManagerExample3851"
+  },
+  "hostingPlanName": {
+    "value": "webapp"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "contactmanager2851"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "pwynnmackenzie"
+  },
+  "administratorLoginPassword": {
+    "value": "Commander1!"
+  },
+  "databaseName": {
+    "value": "ContactManagerExample3851_db"
+  }
+}
