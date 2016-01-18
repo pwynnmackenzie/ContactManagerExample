@@ -29,5 +29,7 @@ namespace ContactManagerExample.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<ContactManagerExample.Models.Contact> Contacts { get; set; }
     }
 }
